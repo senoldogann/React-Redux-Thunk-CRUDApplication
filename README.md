@@ -1,3 +1,9 @@
+
+npm install json-server and then package.json add this like this  "server": "json-server --watch db.json --port 3000" and start npm run server 
+You should change the port in the .env file by setting it according to your own because you need to pull data from the json file.
+
+Şenol Doğan
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
